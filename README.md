@@ -18,8 +18,8 @@ The project comprises three main components:
 - Interact with ChatGPT via the OpenAI API.
 - Receive ChatGPT's responses as text.
 - Convert ChatGPT's text responses to speech, giving the AI a voice.
-
-
+  
+![Alt Text](/examples/1231089.png)
 
 Before you begin, ensure you have the following tools and libraries installed:
 
