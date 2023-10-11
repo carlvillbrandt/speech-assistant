@@ -83,9 +83,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us:
-
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+If you have any questions or suggestions, feel free to contact me.
 
 Enjoy conversing with your ChatGPT Voice Assistant!
