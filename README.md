@@ -19,7 +19,7 @@ The project comprises three main components:
 - Receive ChatGPT's responses as text.
 - Convert ChatGPT's text responses to speech, giving the AI a voice.
 
-## Prerequisites
+
 
 Before you begin, ensure you have the following tools and libraries installed:
 
