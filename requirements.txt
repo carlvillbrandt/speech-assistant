@@ -1,0 +1,21 @@
+# Add Python dependencies
+python_version = "^3.6"
+
+# Audio recording library
+pyaudio == 0.2.11
+
+# Speech recognition library
+SpeechRecognition == 3.8.1
+
+# OpenAI Python library for ChatGPT interaction
+openai == 0.27.0
+
+# Choose one of the following text-to-speech libraries based on your preference:
+# For gTTS (Google Text-to-Speech)
+gTTS == 2.2.3
+
+# For pyttsx3 (Text-to-Speech Conversion)
+pyttsx3 == 2.90
+
+# Add any other dependencies your project may require
+# Additional libraries can be added here
