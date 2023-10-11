@@ -57,7 +57,7 @@ Before you begin, ensure you have the following tools and libraries installed:
    Execute the main script to start the application:
 
    ```bash
-   python main.py
+   python voice_recorder_tkinter.py
    ```
 
 6. **Interact with ChatGPT:**
